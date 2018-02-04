@@ -1,0 +1,8 @@
+Section-H 
+Data Structures Mini Project
+
+TEAM MEMBERS
+01FB16ECS433 -Varshini N
+01FB16ECS435 -Varuna K S
+01FB16ECS459 -Yeshaswini M
+01FB16ECS477 -Sandhya S
